@@ -1,0 +1,30 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#pizza {
+  width: 600px;
+  height: auto;
+}
+
+h1 {
+  font-size: 100px;
+  background-color: lightgray;
+  color: orange;
+}
+
+h3,
+h2 {
+  font-size: 40px;
+}
+
+.ingrediantHeadings {
+  font-weight: bold;
+}
+
+ol,
+ul {
+  background-color: lightgray;
+  color: orange;
+  font-size: 90%;
+}
